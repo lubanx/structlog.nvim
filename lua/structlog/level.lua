@@ -11,11 +11,11 @@ local Level = {
 }
 
 local names = {
-  "TRACE",
-  "DEBUG",
+  "TRAC",
+  "DBUG",
   "INFO",
   "WARN",
-  "ERROR",
+  "ERRO",
 }
 
 --- Convert log level to string representation.
